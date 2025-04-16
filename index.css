@@ -1,0 +1,9 @@
+body{
+  margin: 0;
+  padding:3%;
+}
+
+.movieStyle{
+  align-items: center;
+  color: red;
+}
